@@ -19,10 +19,15 @@ class Game extends Component {
     render() {
         return (
             <div className='game'>
-                <img src={'Ukranian.png'} alt="Ukranian" />
-                <img src={'gun.png'} alt="Gun" />
-                <img src={'peaceFlag.png'} alt="Peace Flag" />
-                <img src={this.selectOneOpponent()} alt="Opponent" />
+                <img align='center' src={'Ukranian.png'} alt="Ukranian" />
+
+                <div className='game-options'>
+                    <img align='center' src={'gun.png'} alt="Gun" />
+                    <br />
+                    <img align='center' src={'peaceFlag.png'} alt="Peace Flag" />                       
+                </div>
+
+                <img align='center' src={this.selectOneOpponent()} alt="Opponent" />
             </div>
         )
     }

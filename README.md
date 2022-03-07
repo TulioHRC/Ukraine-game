@@ -5,6 +5,9 @@ Just a simple game using ReactJS, trying to stop this war mindset that we're set
 Spoiler: You need to shot two different gruop/person to win the game.
 
 ## Log
+### 0.2.1v (Basic CSS)
+- Css style to the according objective
+
 ### 0.2.1v (Others features)
 - No background images converted
 - Favicon
