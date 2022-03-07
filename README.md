@@ -5,6 +5,10 @@ Just a simple game using ReactJS, trying to stop this war mindset that we're set
 Spoiler: You need to shot two different gruop/person to win the game.
 
 ## Log
+### 0.2.0v (Basic logic and images)
+- Logic on randomly selecting the pictures
+- Images on the screen
+
 ### 0.1.0v (Start of the project)
 - Organization of the files
 - Development of the idea
