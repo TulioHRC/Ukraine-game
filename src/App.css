@@ -137,4 +137,5 @@ img {
     max-width: 100%;
     max-height: 50%;
     margin: 10% 0;
+    cursor: pointer;
 }
