@@ -4,6 +4,8 @@ Just a simple game using ReactJS, trying to stop this war mindset that we're set
 
 Spoiler: You need to shot two different gruop/person to win the game.
 
+![image](https://user-images.githubusercontent.com/62257920/157535557-9dd55655-73a7-4cb3-95bd-2fc11f8c85c2.png)
+
 ## Log
 ### 0.3v (Programming logic)
 - Full working game
